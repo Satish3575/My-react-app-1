@@ -6,7 +6,7 @@ import Props3 from './Propsconcept/Props3';
 const object = {
   name : "Mahesh",
   age : "22",
-  city : "Rjy"
+  city : "Rajahumndry"
 }
 
 function App() {
